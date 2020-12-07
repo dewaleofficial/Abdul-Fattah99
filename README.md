@@ -1,5 +1,14 @@
-### Hi there 👋
+### I am an Android developer with a passion for building software solutions that run on Android devices.
 
+- 🔭 I’m currently working on a digital currency platform for online payment and transactions
+- 🌱 I’m currently learning how to build to scale
+- 👯 I’m looking to collaborate on android projects
+- 💬 Ask me about ...
+- 📫 How to reach me: qabdulfatai@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: fifa guru
+
+#### I'm also avaliable for full-time Android Engineering roles, check out my work!
 <!--
 **Abdul-Fattah99/Abdul-Fattah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
