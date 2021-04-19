@@ -1,4 +1,4 @@
-### I am an Android developer with a passion for building software solutions that run on Android devices.
+### I am an Android developer/Data Analyst with a passion for AI.
 
 - 🔭 I’m currently working on a digital currency platform for online payment and transactions
 - 🌱 I’m currently learning how to build to scale
@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: fifa guru
 
-#### I'm also avaliable for full-time Android Engineering roles, check out my work!
+#### I'm also avaliable for full-time Data/Android Engineering roles, check out my work!
 <!--
 **Abdul-Fattah99/Abdul-Fattah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
